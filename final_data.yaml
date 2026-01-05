@@ -1,0 +1,15 @@
+path: C:/Users/sai charitha/Desktop/Smart_Building_Inspection/final_dataset
+
+train: images/train
+val: images/val
+
+nc: 7
+names:
+  0: normal
+  1: minor_crack
+  2: major_crack
+  3: spalling
+  4: peeling
+  5: algae
+  6: stain
+
